@@ -1,7 +1,7 @@
 # 부산 평균기온 예측
 
 ## 개발 기간: 2024년 3월 27일 ~ 2024년 4월 12일
-## 개발환경:
+## 개발환경
 |IDE|프로그래밍<br/>언어|
 |------|---|
 |![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
